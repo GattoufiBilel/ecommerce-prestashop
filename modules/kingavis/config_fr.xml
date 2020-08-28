@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>kingavis</name>
+    <displayName><![CDATA[King-Avis]]></displayName>
+    <version><![CDATA[17.3.02]]></version>
+    <description><![CDATA[R&eacute;coltez et affichez les avis de vos clients]]></description>
+    <author><![CDATA[Webbax]]></author>
+    <tab><![CDATA[others]]></tab>
+	<confirmUninstall><![CDATA[Etes-vous sûr ?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

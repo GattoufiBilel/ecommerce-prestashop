@@ -1,0 +1,27 @@
+/*
+ * Custom code goes here.
+ * A template should always ship with an empty custom.css
+ 
+ 
+ */
+ * body */
+#wrapper{background:#666666;}
+
+/* header */
+#header{background:;}
+#header .header-nav {border-bottom: 2px solid #0099cc;background-color:#fff;}
+#header .header-top a[data-depth="0"] 
+#header .top-menu a[data-depth="0"]:hover {color:black;}
+#header a:hover {color:#000;}
+.search-widget form input[type=text]{background:00ff7f;}
+
+/* footer */
+.footer-container{background:#90eda4;}
+.footer-container h3, .footer-container h4{color:#fff;}
+.footer-container h3 a{color:white;}
+.footer-container a{color:white;}
+.footer-container .block-contact{color:white;}
+#wrapper {
+Background-image: url('../Bureau/Adnen/elan inerface.jpg');
+ box-shadow: inset 0 2px 5px 0 rgba(0, 0, 0, 0.11);
+ padding-top: 1.5625rem; }

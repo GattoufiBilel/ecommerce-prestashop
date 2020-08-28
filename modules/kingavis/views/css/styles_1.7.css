@@ -1,0 +1,6 @@
+/* Front-Office */
+#fo-ka-confirmation{padding:5px;text-align:center;background-color:#222;color:#fff;font-weight:bold;border:1px solid #000;}
+#fo-ka-confirmation{text-align:center;padding-bottom:5px;}
+#fo-ka-confirmation .ka-logo{float:left;width:10%;text-align:center;}
+#fo-ka-confirmation .ka-logo img{vertical-align:middle;width:100%;max-width:57px;}
+#fo-ka-confirmation .ka-info{padding:10px 5px 0 5px;text-align:left;display:inline-block;width:90%;color:#ffffff;}

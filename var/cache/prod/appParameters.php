@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'commerceelan',
+    'database_user' => 'root',
+    'database_password' => '',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'WmYqiB2a4mK9dQw71Wo9EZS1Q6YOUXmb8RMiF6GQBhERsE3KbJ5KijiY',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2020-01-06',
+    'locale' => 'fr-FR',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'bKikm9K2WttjrvI5miH6LHAOGtamyLd3fKtV739uzZL8NDBcHsz2XECt',
+    'cookie_iv' => 'gn69OuB2',
+    'new_cookie_key' => 'def000003065e0e2bed431ce1f5fbfb6b98a423dc392408cc2bc1306ba1f3b4a9f668d025eae9146611dc0dc58390e2d6b81a55bcb9e837a611a0a5f3cab77c45e8d0051',
+  ),
+);

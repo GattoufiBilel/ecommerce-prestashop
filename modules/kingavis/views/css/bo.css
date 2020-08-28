@@ -1,0 +1,8 @@
+/* Back-Office */
+#bo-ka-panel table td{padding:5px;}
+#bo-ka-panel .date{display:inline-block;width:90px;}
+#bo-ka-panel .id_order{display:inline-block;width:90px;}
+
+#div_export_orders{display:none;}
+#div_advanced_options{display:none;}
+#table_advanced_options{width:100%;}
